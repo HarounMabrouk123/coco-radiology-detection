@@ -1,0 +1,27 @@
+# Core
+numpy
+pandas
+scikit-learn
+scipy
+
+# Imaging / IO
+pydicom
+SimpleITK
+opencv-python
+pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Explainability (CAMs)
+grad-cam           # <- correct PyPI name
+# optional alternative:
+# torchcam
+
+# Optional pretrained X-ray classifiers
+torchxrayvision
+
+# Notebooks
+jupyter
+notebook
