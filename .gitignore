@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+medvlm/
+env/
+ENV/
+
+# Data folder (datasets, images, json, csv, etc.)
+data/
+*.json
+*.csv
+*.xlsx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# (optional) Training artifacts
+runs/
+checkpoints/
+weights/
+outputs/
