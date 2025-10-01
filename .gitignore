@@ -13,7 +13,6 @@ ENV/
 
 # Data folder (datasets, images, json, csv, etc.)
 data/
-*.json
 *.csv
 *.xlsx
 
