@@ -13,8 +13,10 @@ ENV/
 
 # Data folder (datasets, images, json, csv, etc.)
 data/
+datasets/
 *.csv
 *.xlsx
+*.pt
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -32,3 +34,5 @@ runs/
 checkpoints/
 weights/
 outputs/
+detect/
+padchest_yolo/
