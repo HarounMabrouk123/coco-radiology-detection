@@ -17,6 +17,7 @@ datasets/
 *.csv
 *.xlsx
 *.pt
+*.yaml
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
